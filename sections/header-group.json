@@ -74,7 +74,8 @@
         "megamenu_Cfwrxp"
       ],
       "custom_css": [
-        ".header {background: transparent !important; border:none}"
+        ".header {background: transparent !important; border: none;}",
+        "svg{color:#fff}"
       ],
       "settings": {
         "style": "style-3",
