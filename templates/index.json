@@ -120,60 +120,30 @@
         "autoplay_speed": 5
       }
     },
-    "custom_grid_HkmFm4": {
-      "type": "custom-grid",
-      "blocks": {
-        "image_block_fAJtPM": {
-          "type": "image_block",
-          "settings": {
-            "image_heading": "Bangles",
-            "image_paragraph": "",
-            "button_link": ""
-          }
-        },
-        "image_block_NcXTKG": {
-          "type": "image_block",
-          "settings": {
-            "image_heading": "Bridal",
-            "image_paragraph": "",
-            "button_link": ""
-          }
-        },
-        "image_block_7Mr96K": {
-          "type": "image_block",
-          "settings": {
-            "image_heading": "Earrings",
-            "image_paragraph": "",
-            "button_link": ""
-          }
-        },
-        "image_block_G6GFhr": {
-          "type": "image_block",
-          "settings": {
-            "image_heading": "Hair Accessories",
-            "image_paragraph": "",
-            "button_link": ""
-          }
-        },
-        "image_block_wHpTTa": {
-          "type": "image_block",
-          "settings": {
-            "image_heading": "Necklaces",
-            "image_paragraph": "",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_block_fAJtPM",
-        "image_block_NcXTKG",
-        "image_block_7Mr96K",
-        "image_block_G6GFhr",
-        "image_block_wHpTTa"
-      ],
+    "featured_products_VYbiQ8": {
+      "type": "featured-products",
+      "name": "t:sections.featured-products.name",
       "settings": {
-        "section_heading": "Our Collections",
-        "section_para": "Explore our curated selection of Indian jewelry, meticulously crafted to adorn every moment of your life with elegance and grace"
+        "style": "style-1",
+        "outer_spacing": "mt-0 mb-0 mt-0--large mb-0--large",
+        "inner_spacing": "spacing-none",
+        "layout": "slider-right",
+        "enable_custom_background": false,
+        "background_color": "",
+        "background_gradient": "",
+        "subheading": "Trending",
+        "heading": "<h2>Top trendy colors for <em>this season</em></h2>",
+        "heading_size": "h2",
+        "paragraph": "",
+        "button_style_1": "solid",
+        "button_size_1": "s",
+        "button_text_1": "Shop now",
+        "button_url_1": "shopify://collections",
+        "collection": "",
+        "product_list": [],
+        "products_count": 8,
+        "autoplay": false,
+        "autoplay_speed": 5
       }
     },
     "featured_collections_hH3VET": {
@@ -673,7 +643,7 @@
   },
   "order": [
     "hero_bxzBk6",
-    "custom_grid_HkmFm4",
+    "featured_products_VYbiQ8",
     "featured_collections_hH3VET",
     "marquee_pWxNpt",
     "featured_products_JAhMVD",
