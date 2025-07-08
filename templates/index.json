@@ -1,0 +1,597 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "custom_grid_HkmFm4": {
+      "type": "custom-grid",
+      "blocks": {
+        "image_block_fAJtPM": {
+          "type": "image_block",
+          "settings": {
+            "image": "shopify://shop_images/IMG_8737_b7b6817e-e1f2-4c41-b964-4b3de0f415d8.heic",
+            "image_heading": "Bangles",
+            "image_paragraph": "",
+            "button_link": ""
+          }
+        },
+        "image_block_NcXTKG": {
+          "type": "image_block",
+          "settings": {
+            "image": "shopify://shop_images/IMG_7210_3b171018-ba9f-4890-a419-d59ae73e259a.jpg",
+            "image_heading": "Bridal",
+            "image_paragraph": "",
+            "button_link": ""
+          }
+        },
+        "image_block_7Mr96K": {
+          "type": "image_block",
+          "settings": {
+            "image": "shopify://shop_images/IMG_0493_e601f87c-4c4b-4417-bfb8-2cc7ec214242.jpg",
+            "image_heading": "Earrings",
+            "image_paragraph": "",
+            "button_link": ""
+          }
+        },
+        "image_block_G6GFhr": {
+          "type": "image_block",
+          "settings": {
+            "image": "shopify://shop_images/IMG_1644_4acd3a74-c2fd-42dc-be51-6fda632714d5.jpg",
+            "image_heading": "Hair Accessories",
+            "image_paragraph": "",
+            "button_link": ""
+          }
+        },
+        "image_block_wHpTTa": {
+          "type": "image_block",
+          "settings": {
+            "image": "shopify://shop_images/IMG_3317_947f335c-5ea3-4305-acbc-cc13e59cb26a.jpg",
+            "image_heading": "Necklaces",
+            "image_paragraph": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_block_fAJtPM",
+        "image_block_NcXTKG",
+        "image_block_7Mr96K",
+        "image_block_G6GFhr",
+        "image_block_wHpTTa"
+      ],
+      "disabled": true,
+      "settings": {
+        "section_heading": "Our Collections",
+        "section_para": "Explore our curated selection of Indian jewelry, meticulously crafted to adorn every moment of your life with elegance and grace"
+      }
+    },
+    "featured_collections_hH3VET": {
+      "type": "featured-collections",
+      "blocks": {
+        "card_3ErjMa": {
+          "type": "card",
+          "settings": {
+            "collection": "long-necklaces",
+            "image": "shopify://shop_images/IMG_9964_6cc4f64d-2055-425e-94c2-aa48db5a4c66.webp",
+            "heading": "Necklaces",
+            "link_text": "Shop Collection",
+            "link_url": "shopify://collections/necklaces",
+            "button_style": "outline"
+          }
+        },
+        "card_N6Qkqg": {
+          "type": "card",
+          "settings": {
+            "collection": "earrings-tikka-sets",
+            "image": "shopify://shop_images/IMG_3993.webp",
+            "heading": "Earrings",
+            "link_text": "Shop Collection",
+            "link_url": "shopify://collections/earrings",
+            "button_style": "outline"
+          }
+        },
+        "card_NKkeKd": {
+          "type": "card",
+          "settings": {
+            "collection": "bangles",
+            "image": "shopify://shop_images/IMG_0330_c072f0fb-e726-442f-8f8f-7b3f2a730e6e.webp",
+            "heading": "Bangles",
+            "link_text": "Shop Collection",
+            "link_url": "shopify://collections/bangles",
+            "button_style": "outline"
+          }
+        },
+        "card_TyYrY6": {
+          "type": "card",
+          "settings": {
+            "collection": "",
+            "image": "shopify://shop_images/IMG_7241_6863e10c-91dd-433f-b667-9bfc993f6f85.jpg",
+            "heading": "Bridal",
+            "link_text": "Shop Collection",
+            "link_url": "shopify://collections/bridal-floral-jewelry",
+            "button_style": "outline"
+          }
+        },
+        "card_aammN3": {
+          "type": "card",
+          "settings": {
+            "collection": "",
+            "image": "shopify://shop_images/IMG_1644_4acd3a74-c2fd-42dc-be51-6fda632714d5.jpg",
+            "heading": "Hair Accessories",
+            "link_text": "Shop Collection",
+            "link_url": "shopify://collections/hair-accessories",
+            "button_style": "outline"
+          }
+        }
+      },
+      "block_order": [
+        "card_3ErjMa",
+        "card_N6Qkqg",
+        "card_NKkeKd",
+        "card_TyYrY6",
+        "card_aammN3"
+      ],
+      "custom_css": [
+        ".card-collection__actions {border: 1px solid #000; border-radius: 50px; background: transparent; color: #000; text-align: center; margin-top: 18px; padding: 4px;}",
+        ".spacing-s--large {padding-top: 0 !important; padding-bottom: 0 !important;}",
+        ".card-collection__title a {font-size: 22px; text-align: center;}",
+        ".card-collection__content {width: 100%;}",
+        ".link:after {opacity: 0;}"
+      ],
+      "settings": {
+        "button_text": "View All Collections",
+        "button_link": "shopify://collections",
+        "style": "style-1",
+        "outer_spacing": "mt-0 mb-0 mt-0--large mb-0--large",
+        "inner_spacing": "spacing-s spacing-s--large",
+        "fullwidth": true,
+        "side_margins": true,
+        "side_margins_mobile": true,
+        "enable_custom_background": false,
+        "background_color": "",
+        "background_gradient": "",
+        "text_align": "center",
+        "subheading": "",
+        "heading": "<h2>Shop Jewellery</h2><h2></h2>",
+        "heading_size": "h2",
+        "paragraph": "<p>Discover our handpicked collection of Indian jewelry, expertly crafted to bring elegance and grace to every moment of your life.</p>",
+        "media_type": "1-1",
+        "card_content_layout": "outside",
+        "card_content_visibility": "always",
+        "show_cards_background": false,
+        "show_title": true,
+        "items_per_slide": 3
+      }
+    },
+    "marquee_pWxNpt": {
+      "type": "marquee",
+      "custom_css": [
+        ".section__wrapper {background: #f8f7f4;}"
+      ],
+      "settings": {
+        "style": "style-1",
+        "outer_spacing": "mt-0 mb-0 mt-0--large mb-0--large",
+        "inner_spacing": "spacing-s spacing-s--large",
+        "enable_custom_background": false,
+        "background_color": "",
+        "background_gradient": "",
+        "enable_custom_color": false,
+        "text_color": "",
+        "marquee_text": "<h2>Tazori Collection</h2>",
+        "font_size": 48,
+        "heading_size": "h2",
+        "marquee_position": "top",
+        "marquee_pause_on_hover": false,
+        "marquee_speed": 1,
+        "remove_image_gap": false,
+        "image_aspect_ratio": "1-1"
+      }
+    },
+    "featured_products_JAhMVD": {
+      "type": "featured-products",
+      "custom_css": [
+        ".text-content {display: flex; justify-content: space-between; align-items: center;}",
+        ".max-width {width: 100% !important; max-width: 100% !important;}",
+        ".card-product__main a {padding-top: 20% !important;}"
+      ],
+      "settings": {
+        "style": "style-1",
+        "outer_spacing": "mt-0 mb-0 mt-0--large mb-0--large",
+        "inner_spacing": "spacing-s spacing-s--large",
+        "layout": "fullwidth",
+        "enable_custom_background": false,
+        "background_color": "",
+        "background_gradient": "",
+        "subheading": "",
+        "heading": "<h2>Best Seller</h2>",
+        "heading_size": "h2",
+        "paragraph": "",
+        "button_style_1": "solid",
+        "button_size_1": "s",
+        "button_text_1": "Shop Now",
+        "button_url_1": "shopify://collections",
+        "collection": "best-sellers",
+        "product_list": [],
+        "products_count": 11,
+        "autoplay": false,
+        "autoplay_speed": 5
+      }
+    },
+    "collage_grid_NaYFwe": {
+      "type": "collage-grid",
+      "blocks": {
+        "block_VfRCYx": {
+          "type": "block",
+          "settings": {
+            "show_on": "",
+            "grid_columns": "2",
+            "grid_rows": "2",
+            "image": "shopify://shop_images/IMG_9964.jpg",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "overlay_gradient": "",
+            "link": "/",
+            "subheading": "",
+            "heading": "Necklaces",
+            "body_text": "",
+            "text_color": "",
+            "position": "bottom_left",
+            "position_mobile": "middle_center",
+            "heading_font_size": "h3",
+            "heading_font_size_mobile": "h3",
+            "button_text": "Shop Now",
+            "button_style": "solid",
+            "button_text_color": "",
+            "button_background_color": ""
+          }
+        },
+        "block_dXq6Xh": {
+          "type": "block",
+          "settings": {
+            "show_on": "",
+            "grid_columns": "2",
+            "grid_rows": "1",
+            "image": "shopify://shop_images/IMG_5243.jpg",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "overlay_gradient": "",
+            "link": "/",
+            "subheading": "",
+            "heading": "Earrings",
+            "body_text": "",
+            "text_color": "",
+            "position": "bottom_left",
+            "position_mobile": "middle_center",
+            "heading_font_size": "h3",
+            "heading_font_size_mobile": "h3",
+            "button_text": "Shop Now",
+            "button_style": "solid",
+            "button_text_color": "",
+            "button_background_color": ""
+          }
+        },
+        "block_Ng8hrq": {
+          "type": "block",
+          "settings": {
+            "show_on": "",
+            "grid_columns": "2",
+            "grid_rows": "1",
+            "image": "shopify://shop_images/IMG_0267.webp",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "overlay_gradient": "",
+            "link": "/",
+            "subheading": "",
+            "heading": "Bangels",
+            "body_text": "",
+            "text_color": "",
+            "position": "bottom_left",
+            "position_mobile": "middle_center",
+            "heading_font_size": "h3",
+            "heading_font_size_mobile": "h3",
+            "button_text": "Shop Now",
+            "button_style": "solid",
+            "button_text_color": "",
+            "button_background_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "block_VfRCYx",
+        "block_dXq6Xh",
+        "block_Ng8hrq"
+      ],
+      "custom_css": [
+        ".full-unstyled-link {font-size: 48px;}"
+      ],
+      "settings": {
+        "heading_text": "Explore Our Products",
+        "button_text": "Explore  Now",
+        "button_link": "",
+        "outer_spacing": "mt-0 mb-0 mt-0--large mb-0--large",
+        "inner_spacing": "spacing-s spacing-s--large",
+        "enable_fullwidth": true,
+        "side_margins": true,
+        "grid_gap": true,
+        "slider_on_mobile": true,
+        "row_height_desktop": 410,
+        "row_height_mobile": 350,
+        "background_color": "",
+        "background_gradient": ""
+      }
+    },
+    "image_with_text_3CL7bg": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_tCXLWk": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "Explore Our Collection"
+          }
+        },
+        "heading_dLdYJE": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Discover Timeless Elegance</h2>",
+            "heading_size": "h3"
+          }
+        },
+        "paragraph_Q9FUnQ": {
+          "type": "paragraph",
+          "settings": {
+            "paragraph": "<p>Discover the height of elegance and sophistication with the Tazori Collection's stunning selection of Indian jewelry</p>"
+          }
+        },
+        "buttons_jQMXbk": {
+          "type": "buttons",
+          "settings": {
+            "button_style_1": "solid",
+            "button_size_1": "m",
+            "button_text_1": "About Us",
+            "button_url_1": "/",
+            "button_style_2": "link",
+            "button_size_2": "m",
+            "button_text_2": "",
+            "button_url_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_tCXLWk",
+        "heading_dLdYJE",
+        "paragraph_Q9FUnQ",
+        "buttons_jQMXbk"
+      ],
+      "custom_css": [
+        ".section__container {background: #074a42 !important;}",
+        ".button {border: 1px solid #fff; background: transparent;}",
+        "p,h2 {color: #fff;}"
+      ],
+      "settings": {
+        "style": "style-1",
+        "outer_spacing": "mt-0 mb-0 mt-0--large mb-0--large",
+        "inner_spacing": "spacing-none",
+        "height": "3-4",
+        "enable_custom_background": false,
+        "background_color": "#ffffff",
+        "background_gradient": "",
+        "enable_fullwidth": true,
+        "swap_image_and_text": true,
+        "content_vertical_position": "center",
+        "image": "shopify://shop_images/IMG_6001_16e8626e-b2c6-4611-b972-0d12d65ed158.jpg"
+      }
+    },
+    "featured_products_MhENWW": {
+      "type": "featured-products",
+      "custom_css": [
+        ".text-content {display: flex; justify-content: space-between; align-items: center;}",
+        ".max-width {width: 100% !important; max-width: 100% !important;}",
+        ".card-product__main a {padding-top: 20% !important;}"
+      ],
+      "settings": {
+        "style": "style-1",
+        "outer_spacing": "mt-0 mb-0 mt-0--large mb-0--large",
+        "inner_spacing": "spacing-s spacing-s--large",
+        "layout": "fullwidth",
+        "enable_custom_background": false,
+        "background_color": "",
+        "background_gradient": "",
+        "subheading": "",
+        "heading": "<h2>Bridal Rings</h2>",
+        "heading_size": "h2",
+        "paragraph": "",
+        "button_style_1": "solid",
+        "button_size_1": "s",
+        "button_text_1": "Shop Now",
+        "button_url_1": "shopify://collections",
+        "collection": "bridal-ring",
+        "product_list": [],
+        "products_count": 8,
+        "autoplay": false,
+        "autoplay_speed": 5
+      }
+    },
+    "testimonials_JepEkC": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_naVm96": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 5,
+            "heading": "Amazing",
+            "content": "<p>They have the best collection of jwellery and at reasonable prices. You can also customise your jwellery as per your need. They also were very much polite and have a good service too. Even they delivered the jwellery to me, when I requested them if they could deliver if possible. Thank you so much. Had a very good experience!!</p>",
+            "author": "Anu Xavier"
+          }
+        },
+        "testimonial_LJkKFC": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 5,
+            "heading": "Beautiful",
+            "content": "<p>Had a very good experience shopping from your site. The Necklaces was awesome and the price was at par with the current market rates. Thank you </p>",
+            "author": "Anand Singh"
+          }
+        },
+        "testimonial_7YEG6G": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 5,
+            "heading": "Nice",
+            "content": "<p>Best designs And Best Price i loved to buy product from your website, Qualites of your product is nice and good i like it </p>",
+            "author": "Samta Joshi "
+          }
+        },
+        "testimonial_xAtULA": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 5,
+            "heading": "Top-Notch Products",
+            "content": "<p>The products on this website are a perfect blend of excellent design and affordability. I'm always thrilled with the high quality and craftsmanship of each item. If you're looking for stylish, well-priced items with superior quality, this is the place to shop!</p>",
+            "author": "Sanjeev Tamar"
+          }
+        },
+        "testimonial_BACHbr": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 5,
+            "heading": "Impressive Quality and Design for Every Budget",
+            "content": "<p>I've been consistently impressed with the exceptional design and pricing of the products from this website. The quality is top-notch, and the attention to detail in each item is evident. I highly recommend this site for anyone looking for stylish and well-made products at great prices!</p>",
+            "author": "Sophia Miller"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_naVm96",
+        "testimonial_LJkKFC",
+        "testimonial_7YEG6G",
+        "testimonial_xAtULA",
+        "testimonial_BACHbr"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "p {font-size: 16px;}"
+      ],
+      "settings": {
+        "style": "style-3",
+        "outer_spacing": "mt-0 mb-0 mt-0--large mb-0--large",
+        "inner_spacing": "spacing-s spacing-s--large",
+        "heading": "<h2>Customer Reviews</h2>",
+        "items_per_slide": 3,
+        "autoplay_slider": false,
+        "autoplay_speed": 5,
+        "enable_custom_background": false,
+        "background_color": "",
+        "background_gradient": ""
+      }
+    },
+    "featured_blog_kEBwQN": {
+      "type": "featured-blog",
+      "disabled": true,
+      "custom_css": [
+        ".link:after {opacity: 0;}",
+        ".p4 {font-size: 16px;}",
+        ".container {margin: 0;}"
+      ],
+      "settings": {
+        "button_text": "View All Blog Posts",
+        "button_link": "shopify://blogs/news",
+        "style": "style-1",
+        "outer_spacing": "mt-0 mb-0 mt-0--large mb-0--large",
+        "inner_spacing": "spacing-s spacing-s--large",
+        "layout": "fullwidth",
+        "enable_custom_background": false,
+        "background_color": "",
+        "background_gradient": "",
+        "subheading": "",
+        "heading": "<p>Latest Blogs</p>",
+        "heading_size": "h2",
+        "paragraph": "",
+        "button_style_1": "solid",
+        "button_size_1": "m",
+        "button_text_1": "Explore",
+        "button_url_1": "shopify://blogs/news",
+        "blog": "news",
+        "articles_count": 5,
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "show_author": false,
+        "show_date": false,
+        "show_excerpt": true,
+        "show_tags": false
+      }
+    },
+    "featured_collection_nEGakA": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "style": "style-1",
+        "outer_spacing": "mt-0 mb-0 mt-0--large mb-0--large",
+        "inner_spacing": "spacing-s spacing-s--large",
+        "layout_desktop": "slider-right",
+        "layout_mobile": "image-top",
+        "products_size": "small",
+        "image_position": "aside",
+        "enable_custom_background": false,
+        "background_color": "",
+        "background_gradient": "",
+        "image": "shopify://shop_images/IMG_0493_e601f87c-4c4b-4417-bfb8-2cc7ec214242.jpg",
+        "subheading": "",
+        "heading": "<p>New Necklace</p>",
+        "heading_size": "h3",
+        "paragraph": "<p>Discover the Elegance of a 2 Line Necklace - Perfect for Every Occasion.</p>",
+        "button_style": "link",
+        "button_size": "m",
+        "button_text": "",
+        "button_url_1": "",
+        "collection": "long-necklaces",
+        "products_count": 12,
+        "autoplay": false,
+        "autoplay_speed": 5
+      }
+    },
+    "email_signup_banner_9tVgY3": {
+      "type": "email-signup-banner",
+      "custom_css": [
+        "input {border: 1px solid #fff;}",
+        ".section__wrapper {border-bottom: 1px solid #fff;}"
+      ],
+      "settings": {
+        "style": "style-2",
+        "outer_spacing": "mt-0 mb-0 mt-0--large mb-0--large",
+        "inner_spacing": "spacing-s spacing-s--large",
+        "heading": "<p>Subscribe to newsletter</p>",
+        "paragraph": "<p>Stay updated with the latest trends, exclusive offers, and special discounts</p>",
+        "enable_custom_background": false,
+        "background_color": "",
+        "background_gradient": ""
+      }
+    },
+    "17291841403ce662c2": {
+      "type": "apps",
+      "custom_css": [
+        "div#widget-id17386 {background-color: #f5f5f5 !important; padding-top: 60px !important; padding-bottom: 60px !important;}"
+      ],
+      "settings": {}
+    }
+  },
+  "order": [
+    "custom_grid_HkmFm4",
+    "featured_collections_hH3VET",
+    "marquee_pWxNpt",
+    "featured_products_JAhMVD",
+    "collage_grid_NaYFwe",
+    "image_with_text_3CL7bg",
+    "featured_products_MhENWW",
+    "testimonials_JepEkC",
+    "featured_blog_kEBwQN",
+    "featured_collection_nEGakA",
+    "17291841403ce662c2",
+    "email_signup_banner_9tVgY3"
+  ]
+}
