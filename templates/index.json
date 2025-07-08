@@ -9,6 +9,113 @@
  */
 {
   "sections": {
+    "hero_bxzBk6": {
+      "type": "hero",
+      "blocks": {
+        "50_50_fb3ftU": {
+          "type": "50-50",
+          "settings": {
+            "whole_block_link": "",
+            "separate_on_mobile": false,
+            "flip": false,
+            "enable_gap": false,
+            "image": "shopify://shop_images/9_7a7b84a6-b74d-4e79-b558-4894543d7014.webp",
+            "background_overlay": "#000",
+            "background_overlay_opacity": 2,
+            "background_overlay_gradient": "",
+            "show_background": false,
+            "show_background_mobile": false,
+            "align_vertical": "bottom",
+            "align_horizontal": "left",
+            "align_vertical_mobile": "center",
+            "align_horizontal_mobile": "center",
+            "text_color": "#ffffff",
+            "subheading": "",
+            "heading": "<p>NEW ARRIVE</p>",
+            "heading_size": "h3",
+            "button_style_1": "solid",
+            "button_size_1": "s",
+            "button_text_1": "SHOP NOW",
+            "button_url_1": "shopify://collections",
+            "button_style_2": "solid",
+            "button_size_2": "m",
+            "button_text_2": "",
+            "button_url_2": "",
+            "button_text_color": "#000",
+            "button_background_color": "#ffffff",
+            "aside_whole_block_link": "",
+            "aside_image": "shopify://shop_images/10_9943107d-d9d3-42dc-9985-54a4c77f306a.webp",
+            "aside_background_overlay": "#000",
+            "aside_background_overlay_opacity": 0,
+            "aside_background_overlay_gradient": "",
+            "aside_show_background": false,
+            "aside_show_background_mobile": false,
+            "aside_align_vertical": "bottom",
+            "aside_align_horizontal": "left",
+            "aside_align_vertical_mobile": "center",
+            "aside_align_horizontal_mobile": "center",
+            "aside_text_color": "",
+            "aside_subheading": "",
+            "aside_heading": "",
+            "aside_heading_size": "h1",
+            "aside_button_style_1": "link",
+            "aside_button_size_1": "m",
+            "aside_button_text_1": "",
+            "aside_button_url_1": "shopify://collections",
+            "aside_button_style_2": "solid",
+            "aside_button_size_2": "m",
+            "aside_button_text_2": "",
+            "aside_button_url_2": "",
+            "aside_button_text_color": "",
+            "aside_button_background_color": ""
+          }
+        },
+        "fullwidth_w7DwmH": {
+          "type": "fullwidth",
+          "settings": {
+            "whole_block_link": "",
+            "disable_autoplay_on_mobile": true,
+            "description": "",
+            "background_overlay": "#000",
+            "background_overlay_opacity": 0,
+            "background_overlay_gradient": "",
+            "show_background": false,
+            "show_background_mobile": false,
+            "align_vertical": "center",
+            "align_horizontal": "center",
+            "align_vertical_mobile": "center",
+            "align_horizontal_mobile": "center",
+            "text_color": "",
+            "subheading": "Add a tagline",
+            "heading": "<p>Slide heading with <em><strong>accent element</strong></em></p>",
+            "heading_size": "h1",
+            "paragraph": "<p>Add descriptive text for your slide here.</p>",
+            "button_style_1": "solid",
+            "button_size_1": "m",
+            "button_text_1": "Explore",
+            "button_url_1": "shopify://collections/all",
+            "button_style_2": "solid",
+            "button_size_2": "m",
+            "button_text_2": "",
+            "button_url_2": "",
+            "button_text_color": "",
+            "button_background_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "50_50_fb3ftU",
+        "fullwidth_w7DwmH"
+      ],
+      "name": "t:sections.hero.name",
+      "settings": {
+        "style": "style-1",
+        "outer_spacing": "mt-0 mb-0 mt-0--large mb-0--large",
+        "height": "large",
+        "autoplay": false,
+        "autoplay_speed": 5
+      }
+    },
     "custom_grid_HkmFm4": {
       "type": "custom-grid",
       "blocks": {
@@ -60,7 +167,6 @@
         "image_block_G6GFhr",
         "image_block_wHpTTa"
       ],
-      "disabled": true,
       "settings": {
         "section_heading": "Our Collections",
         "section_para": "Explore our curated selection of Indian jewelry, meticulously crafted to adorn every moment of your life with elegance and grace"
@@ -562,6 +668,7 @@
     }
   },
   "order": [
+    "hero_bxzBk6",
     "custom_grid_HkmFm4",
     "featured_collections_hH3VET",
     "marquee_pWxNpt",
