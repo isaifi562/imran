@@ -7,6 +7,7 @@
     "theme_documentation_url": "https://bigstart.gitbook.io/marble-documentation/",
     "theme_support_url": "https://bigstart.io/"
   },
+  
   {
     "name": "t:settings_schema.colors_styles.style_1",
     "settings": [
