@@ -15,7 +15,6 @@
         "image_block_fAJtPM": {
           "type": "image_block",
           "settings": {
-            "image": "shopify://shop_images/IMG_8737_b7b6817e-e1f2-4c41-b964-4b3de0f415d8.heic",
             "image_heading": "Bangles",
             "image_paragraph": "",
             "button_link": ""
@@ -24,7 +23,6 @@
         "image_block_NcXTKG": {
           "type": "image_block",
           "settings": {
-            "image": "shopify://shop_images/IMG_7210_3b171018-ba9f-4890-a419-d59ae73e259a.jpg",
             "image_heading": "Bridal",
             "image_paragraph": "",
             "button_link": ""
@@ -33,7 +31,6 @@
         "image_block_7Mr96K": {
           "type": "image_block",
           "settings": {
-            "image": "shopify://shop_images/IMG_0493_e601f87c-4c4b-4417-bfb8-2cc7ec214242.jpg",
             "image_heading": "Earrings",
             "image_paragraph": "",
             "button_link": ""
@@ -42,7 +39,6 @@
         "image_block_G6GFhr": {
           "type": "image_block",
           "settings": {
-            "image": "shopify://shop_images/IMG_1644_4acd3a74-c2fd-42dc-be51-6fda632714d5.jpg",
             "image_heading": "Hair Accessories",
             "image_paragraph": "",
             "button_link": ""
@@ -51,7 +47,6 @@
         "image_block_wHpTTa": {
           "type": "image_block",
           "settings": {
-            "image": "shopify://shop_images/IMG_3317_947f335c-5ea3-4305-acbc-cc13e59cb26a.jpg",
             "image_heading": "Necklaces",
             "image_paragraph": "",
             "button_link": ""
@@ -78,7 +73,6 @@
           "type": "card",
           "settings": {
             "collection": "long-necklaces",
-            "image": "shopify://shop_images/IMG_9964_6cc4f64d-2055-425e-94c2-aa48db5a4c66.webp",
             "heading": "Necklaces",
             "link_text": "Shop Collection",
             "link_url": "shopify://collections/necklaces",
@@ -89,7 +83,6 @@
           "type": "card",
           "settings": {
             "collection": "earrings-tikka-sets",
-            "image": "shopify://shop_images/IMG_3993.webp",
             "heading": "Earrings",
             "link_text": "Shop Collection",
             "link_url": "shopify://collections/earrings",
@@ -100,7 +93,6 @@
           "type": "card",
           "settings": {
             "collection": "bangles",
-            "image": "shopify://shop_images/IMG_0330_c072f0fb-e726-442f-8f8f-7b3f2a730e6e.webp",
             "heading": "Bangles",
             "link_text": "Shop Collection",
             "link_url": "shopify://collections/bangles",
@@ -111,7 +103,6 @@
           "type": "card",
           "settings": {
             "collection": "",
-            "image": "shopify://shop_images/IMG_7241_6863e10c-91dd-433f-b667-9bfc993f6f85.jpg",
             "heading": "Bridal",
             "link_text": "Shop Collection",
             "link_url": "shopify://collections/bridal-floral-jewelry",
@@ -122,7 +113,6 @@
           "type": "card",
           "settings": {
             "collection": "",
-            "image": "shopify://shop_images/IMG_1644_4acd3a74-c2fd-42dc-be51-6fda632714d5.jpg",
             "heading": "Hair Accessories",
             "link_text": "Shop Collection",
             "link_url": "shopify://collections/hair-accessories",
@@ -232,7 +222,6 @@
             "show_on": "",
             "grid_columns": "2",
             "grid_rows": "2",
-            "image": "shopify://shop_images/IMG_9964.jpg",
             "overlay_color": "#000000",
             "overlay_opacity": 0,
             "overlay_gradient": "",
@@ -257,7 +246,6 @@
             "show_on": "",
             "grid_columns": "2",
             "grid_rows": "1",
-            "image": "shopify://shop_images/IMG_5243.jpg",
             "overlay_color": "#000000",
             "overlay_opacity": 0,
             "overlay_gradient": "",
@@ -282,7 +270,6 @@
             "show_on": "",
             "grid_columns": "2",
             "grid_rows": "1",
-            "image": "shopify://shop_images/IMG_0267.webp",
             "overlay_color": "#000000",
             "overlay_opacity": 0,
             "overlay_gradient": "",
@@ -368,11 +355,7 @@
         "paragraph_Q9FUnQ",
         "buttons_jQMXbk"
       ],
-      "custom_css": [
-        ".section__container {background: #074a42 !important;}",
-        ".button {border: 1px solid #fff; background: transparent;}",
-        "p,h2 {color: #fff;}"
-      ],
+      "custom_css": [],
       "settings": {
         "style": "style-1",
         "outer_spacing": "mt-0 mb-0 mt-0--large mb-0--large",
@@ -383,8 +366,7 @@
         "background_gradient": "",
         "enable_fullwidth": true,
         "swap_image_and_text": true,
-        "content_vertical_position": "center",
-        "image": "shopify://shop_images/IMG_6001_16e8626e-b2c6-4611-b972-0d12d65ed158.jpg"
+        "content_vertical_position": "center"
       }
     },
     "featured_products_MhENWW": {
@@ -540,7 +522,6 @@
         "enable_custom_background": false,
         "background_color": "",
         "background_gradient": "",
-        "image": "shopify://shop_images/IMG_0493_e601f87c-4c4b-4417-bfb8-2cc7ec214242.jpg",
         "subheading": "",
         "heading": "<p>New Necklace</p>",
         "heading_size": "h3",
@@ -554,6 +535,13 @@
         "autoplay": false,
         "autoplay_speed": 5
       }
+    },
+    "17291841403ce662c2": {
+      "type": "apps",
+      "custom_css": [
+        "div#widget-id17386 {background-color: #f5f5f5 !important; padding-top: 60px !important; padding-bottom: 60px !important;}"
+      ],
+      "settings": {}
     },
     "email_signup_banner_9tVgY3": {
       "type": "email-signup-banner",
@@ -571,13 +559,6 @@
         "background_color": "",
         "background_gradient": ""
       }
-    },
-    "17291841403ce662c2": {
-      "type": "apps",
-      "custom_css": [
-        "div#widget-id17386 {background-color: #f5f5f5 !important; padding-top: 60px !important; padding-bottom: 60px !important;}"
-      ],
-      "settings": {}
     }
   },
   "order": [
