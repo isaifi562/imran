@@ -73,8 +73,11 @@
         "c19eee85-6a97-4517-827f-76304a9259bd",
         "megamenu_Cfwrxp"
       ],
+      "custom_css": [
+        ".header{background: transparent !important;}"
+      ],
       "settings": {
-        "style": "style-2",
+        "style": "style-3",
         "aside_navigation": false,
         "logo_position": "left",
         "logo": "shopify://shop_images/velorrea.png",

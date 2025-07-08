@@ -107,6 +107,9 @@
         "50_50_fb3ftU",
         "fullwidth_w7DwmH"
       ],
+      "custom_css": [
+        "{margin-top:-85px}"
+      ],
       "name": "t:sections.hero.name",
       "settings": {
         "style": "style-1",
