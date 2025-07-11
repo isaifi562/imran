@@ -37,10 +37,10 @@
         "enable_contact_links": false,
         "content_horizontal_alignment": "center",
         "type": "loop",
-        "enable_country": true,
-        "enable_country_name": true,
-        "enable_country_flag": true,
-        "enable_language": true
+        "enable_country": false,
+        "enable_country_name": false,
+        "enable_country_flag": false,
+        "enable_language": false
       }
     },
     "header": {
@@ -78,7 +78,7 @@
         "svg {color: #fff;}"
       ],
       "settings": {
-        "style": "style-3",
+        "style": "style-1",
         "aside_navigation": false,
         "logo_position": "left",
         "logo": "shopify://shop_images/velorrea.png",
@@ -98,7 +98,7 @@
         "enable_country": true,
         "enable_country_name": true,
         "enable_country_flag": true,
-        "enable_language": true
+        "enable_language": false
       }
     }
   },
