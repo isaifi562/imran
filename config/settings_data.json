@@ -100,6 +100,8 @@
     "social_tiktok_link": "",
     "social_snapchat_link": "",
     "social_linkedin_link": "#",
+    "favicon": "shopify://shop_images/velorrea.png",
+    "enable_subscribe_notification": false,
     "enable_localization": true,
     "swatches_use_image_assets": false,
     "sections": {
