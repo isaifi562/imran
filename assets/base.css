@@ -2749,7 +2749,7 @@ input.is-unavailable + label:after {
   
 }
 .announcement-bar__item{
-  color:#000 !important
+  color:#fff !important
 }
 .header__logo img{
   width:135px !important
