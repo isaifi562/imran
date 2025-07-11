@@ -24,14 +24,16 @@
       "block_order": [
         "6de734d5-cb1e-4e69-bec4-65997d16bcf0"
       ],
-      "custom_css": [],
+      "custom_css": [
+        "{background: #000;}"
+      ],
       "settings": {
-        "style": "style-2",
+        "style": "style-1",
         "enable_custom_background": false,
-        "background_color": "",
+        "background_color": "#000000",
         "background_gradient": "",
         "enable_custom_color": false,
-        "text_color": "",
+        "text_color": "#ffffff",
         "enable": true,
         "enable_close": true,
         "enable_contact_links": false,
