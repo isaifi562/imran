@@ -17,12 +17,19 @@
         "6de734d5-cb1e-4e69-bec4-65997d16bcf0": {
           "type": "content_item",
           "settings": {
-            "title": "<p><strong>100% Cotton Chikankari Kurtis – Free Shipping on Prepaid Orders!</strong></p>"
+            "title": "<p><strong>Worldwide express delivery available</strong></p>"
+          }
+        },
+        "content_item_XJCW3c": {
+          "type": "content_item",
+          "settings": {
+            "title": "<p><strong>Free Gift with Every Purchase!</strong></p>"
           }
         }
       },
       "block_order": [
-        "6de734d5-cb1e-4e69-bec4-65997d16bcf0"
+        "6de734d5-cb1e-4e69-bec4-65997d16bcf0",
+        "content_item_XJCW3c"
       ],
       "custom_css": [],
       "settings": {
