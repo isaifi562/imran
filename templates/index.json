@@ -174,30 +174,33 @@
         "card_NKkeKd": {
           "type": "card",
           "settings": {
-            "collection": "bangles",
-            "heading": "Bangles",
+            "collection": "new-arrivals",
+            "image": "shopify://shop_images/smiling-woman-on-snowy-afternoon_925x_bdcaf0cb-c761-46c3-a529-bd1e7849dc43.jpg",
+            "heading": "Caps",
             "link_text": "Shop Collection",
-            "link_url": "shopify://collections/bangles",
+            "link_url": "#",
             "button_style": "outline"
           }
         },
         "card_TyYrY6": {
           "type": "card",
           "settings": {
-            "collection": "",
-            "heading": "Bridal",
+            "collection": "best-seller",
+            "image": "shopify://shop_images/young-hip-woman-at-carnival_925x_4a1c7841-27c9-4aa1-98ef-f5d77c5cd675.jpg",
+            "heading": "Shirt",
             "link_text": "Shop Collection",
-            "link_url": "shopify://collections/bridal-floral-jewelry",
+            "link_url": "#",
             "button_style": "outline"
           }
         },
         "card_aammN3": {
           "type": "card",
           "settings": {
-            "collection": "",
-            "heading": "Hair Accessories",
+            "collection": "best-seller",
+            "image": "shopify://shop_images/autumn-photographer-taking-picture_925x_1619bf60-7f6c-4f08-8201-9e5f62349789.jpg",
+            "heading": "Cotton Shirt",
             "link_text": "Shop Collection",
-            "link_url": "shopify://collections/hair-accessories",
+            "link_url": "#",
             "button_style": "outline"
           }
         }
