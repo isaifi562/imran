@@ -2804,5 +2804,7 @@ input.is-unavailable + label:after {
 #shopify-section-template--23261225517371__main .page-content h3{
       margin: 25px 0 15px 0 !important;
     font-size: 35px;
-
+}
+#shopify-section-sections--15649371553850__header > sticky-header > div > div > nav.header__utils > ul > li:nth-child(2){
+  display:none;
 }
