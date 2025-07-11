@@ -46,17 +46,10 @@
     "header": {
       "type": "header",
       "blocks": {
-        "c19eee85-6a97-4517-827f-76304a9259bd": {
-          "type": "highlighted_link",
-          "settings": {
-            "link_text": "",
-            "color": "#de6a5a"
-          }
-        },
         "megamenu_Cfwrxp": {
           "type": "megamenu",
           "settings": {
-            "title": "Shop All",
+            "title": "Home",
             "item_1_image": "shopify://shop_images/menswear-blue-zip-up-jacket_925x_9485125f-511d-44b9-9968-7d2687f19fd2.jpg",
             "item_1_subheading": "",
             "item_1_heading": "Jacket",
@@ -72,7 +65,6 @@
         }
       },
       "block_order": [
-        "c19eee85-6a97-4517-827f-76304a9259bd",
         "megamenu_Cfwrxp"
       ],
       "custom_css": [
