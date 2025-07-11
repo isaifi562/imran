@@ -2744,8 +2744,8 @@ input.is-unavailable + label:after {
   
 }
 .announcement-bar, .localization-dropdown__dropdown{
-  background: #fff !important;
-  color:#000 !important
+  background: #000 !important;
+  color:#fff !important
   
 }
 .announcement-bar__item{
