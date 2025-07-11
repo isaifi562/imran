@@ -45,28 +45,6 @@
     },
     "header": {
       "type": "header",
-      "blocks": {
-        "megamenu_Cfwrxp": {
-          "type": "megamenu",
-          "settings": {
-            "title": "https://velorrea.com/",
-            "item_1_image": "shopify://shop_images/menswear-blue-zip-up-jacket_925x_9485125f-511d-44b9-9968-7d2687f19fd2.jpg",
-            "item_1_subheading": "",
-            "item_1_heading": "Jacket",
-            "item_1_link": "",
-            "item_2_image": "shopify://shop_images/young-hip-woman-at-carnival_925x_4a1c7841-27c9-4aa1-98ef-f5d77c5cd675.jpg",
-            "item_2_subheading": "",
-            "item_2_heading": "T-Shirt",
-            "item_2_link": "",
-            "item_3_subheading": "",
-            "item_3_heading": "",
-            "item_3_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "megamenu_Cfwrxp"
-      ],
       "custom_css": [
         ".header {border: none;}",
         "svg {color: #000;}"
