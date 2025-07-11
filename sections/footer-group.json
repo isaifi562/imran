@@ -27,7 +27,7 @@
           "settings": {
             "title": "Collections",
             "url": "",
-            "menu": ""
+            "menu": "collections"
           }
         },
         "menu_xWMtWb": {
@@ -35,12 +35,11 @@
           "settings": {
             "title": "Quick Link",
             "url": "",
-            "menu": ""
+            "menu": "footer"
           }
         },
         "920f08a5-a221-4bda-a38a-6d0a83ebfab6": {
           "type": "newsletter",
-          "disabled": true,
           "settings": {
             "title": "Newsletter",
             "text": "Add descriptive text to invite your users to sign up for your newsletter.",
