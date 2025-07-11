@@ -326,7 +326,7 @@
             "overlay_gradient": "",
             "link": "#",
             "subheading": "",
-            "heading": "bags",
+            "heading": "Bags",
             "body_text": "",
             "text_color": "",
             "position": "bottom_left",
@@ -345,12 +345,13 @@
             "show_on": "",
             "grid_columns": "2",
             "grid_rows": "1",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0,
+            "image": "shopify://shop_images/woman-in-the-city_925x_fa6b306e-cdb3-4593-94a7-91ba71d3e059.jpg",
+            "overlay_color": "#ffffff",
+            "overlay_opacity": 12,
             "overlay_gradient": "",
-            "link": "/",
+            "link": "#",
             "subheading": "",
-            "heading": "Earrings",
+            "heading": "Tops",
             "body_text": "",
             "text_color": "",
             "position": "bottom_left",
@@ -369,12 +370,13 @@
             "show_on": "",
             "grid_columns": "2",
             "grid_rows": "1",
+            "image": "shopify://shop_images/city-woman-fashion_925x_2x_e91139c3-68ff-49da-98c9-5a56a049fb30.jpg",
             "overlay_color": "#000000",
             "overlay_opacity": 0,
             "overlay_gradient": "",
-            "link": "/",
+            "link": "#",
             "subheading": "",
-            "heading": "Bangels",
+            "heading": "Tops",
             "body_text": "",
             "text_color": "",
             "position": "bottom_left",
@@ -431,7 +433,7 @@
         "paragraph_Q9FUnQ": {
           "type": "paragraph",
           "settings": {
-            "paragraph": "<p>Discover the height of elegance and sophistication with the Tazori Collection's stunning selection of Indian jewelry</p>"
+            "paragraph": "<p>Discover the height of elegance and sophistication with the Velorrea Collection's stunning selection of Indian jewelry</p>"
           }
         },
         "buttons_jQMXbk": {
@@ -440,7 +442,7 @@
             "button_style_1": "solid",
             "button_size_1": "m",
             "button_text_1": "About Us",
-            "button_url_1": "/",
+            "button_url_1": "#",
             "button_style_2": "link",
             "button_size_2": "m",
             "button_text_2": "",
@@ -465,7 +467,8 @@
         "background_gradient": "",
         "enable_fullwidth": true,
         "swap_image_and_text": true,
-        "content_vertical_position": "center"
+        "content_vertical_position": "center",
+        "image": "shopify://shop_images/man-adjusts-blue-tuxedo-bowtie_925x_55a49e12-d54b-488e-b7a0-ea4c201eb01f.jpg"
       }
     },
     "featured_products_MhENWW": {
@@ -484,15 +487,22 @@
         "background_color": "",
         "background_gradient": "",
         "subheading": "",
-        "heading": "<h2>Bridal Rings</h2>",
+        "heading": "<h2>New Season</h2>",
         "heading_size": "h2",
         "paragraph": "",
         "button_style_1": "solid",
         "button_size_1": "s",
         "button_text_1": "Shop Now",
         "button_url_1": "shopify://collections",
-        "collection": "bridal-ring",
-        "product_list": [],
+        "collection": "",
+        "product_list": [
+          "dark-winter-jacket",
+          "navy-sport-jacket",
+          "floral-white-top",
+          "blue-silk-tuxedo",
+          "black-leather-bag",
+          "classic-varsity-top"
+        ],
         "products_count": 8,
         "autoplay": false,
         "autoplay_speed": 5
