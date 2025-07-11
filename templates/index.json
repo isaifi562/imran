@@ -20,7 +20,7 @@
             "flip": false,
             "enable_gap": false,
             "image": "shopify://shop_images/9_7a7b84a6-b74d-4e79-b558-4894543d7014.webp",
-            "background_overlay": "#000",
+            "background_overlay": "#000000",
             "background_overlay_opacity": 2,
             "background_overlay_gradient": "",
             "show_background": false,
@@ -41,11 +41,11 @@
             "button_size_2": "m",
             "button_text_2": "",
             "button_url_2": "",
-            "button_text_color": "#000",
+            "button_text_color": "#000000",
             "button_background_color": "#ffffff",
             "aside_whole_block_link": "",
             "aside_image": "shopify://shop_images/10_9943107d-d9d3-42dc-9985-54a4c77f306a.webp",
-            "aside_background_overlay": "#000",
+            "aside_background_overlay": "#000000",
             "aside_background_overlay_opacity": 0,
             "aside_background_overlay_gradient": "",
             "aside_show_background": false,
@@ -74,10 +74,11 @@
           "type": "fullwidth",
           "settings": {
             "whole_block_link": "",
+            "external_video": "",
             "disable_autoplay_on_mobile": true,
             "description": "",
             "image": "shopify://shop_images/home-main.webp",
-            "background_overlay": "#000",
+            "background_overlay": "#000000",
             "background_overlay_opacity": 0,
             "background_overlay_gradient": "",
             "show_background": false,
@@ -99,7 +100,7 @@
             "button_size_2": "s",
             "button_text_2": "",
             "button_url_2": "",
-            "button_text_color": "#000",
+            "button_text_color": "#000000",
             "button_background_color": "#ffffff"
           }
         }
@@ -139,7 +140,7 @@
         "button_size_1": "s",
         "button_text_1": "Shop now",
         "button_url_1": "shopify://collections",
-        "collection": "",
+        "collection": "best-seller",
         "product_list": [],
         "products_count": 8,
         "autoplay": false,
@@ -152,20 +153,21 @@
         "card_3ErjMa": {
           "type": "card",
           "settings": {
-            "collection": "long-necklaces",
-            "heading": "Necklaces",
+            "collection": "best-seller",
+            "heading": "T-Shirt",
             "link_text": "Shop Collection",
-            "link_url": "shopify://collections/necklaces",
+            "link_url": "#",
             "button_style": "outline"
           }
         },
         "card_N6Qkqg": {
           "type": "card",
           "settings": {
-            "collection": "earrings-tikka-sets",
-            "heading": "Earrings",
+            "collection": "new-arrivals",
+            "image": "shopify://shop_images/menswear-blue-zip-up-jacket_925x_9485125f-511d-44b9-9968-7d2687f19fd2.jpg",
+            "heading": "Jacket",
             "link_text": "Shop Collection",
-            "link_url": "shopify://collections/earrings",
+            "link_url": "#",
             "button_style": "outline"
           }
         },
@@ -228,9 +230,9 @@
         "background_gradient": "",
         "text_align": "center",
         "subheading": "",
-        "heading": "<h2>Shop Jewellery</h2><h2></h2>",
+        "heading": "<h2>Best Seller</h2><h2></h2>",
         "heading_size": "h2",
-        "paragraph": "<p>Discover our handpicked collection of Indian jewelry, expertly crafted to bring elegance and grace to every moment of your life.</p>",
+        "paragraph": "<p>Discover our handpicked collection of Indian , expertly crafted to bring elegance and grace to every moment of your life.</p>",
         "media_type": "1-1",
         "card_content_layout": "outside",
         "card_content_visibility": "always",
