@@ -71,12 +71,12 @@
         "enable_predictive_search": true,
         "enable_sticky_header": true,
         "transparent": false,
-        "transparent_gradient": true,
+        "transparent_gradient": false,
         "transparent_logo_svg_code": "",
         "transparent_color": "#000000",
-        "enable_country": true,
-        "enable_country_name": true,
-        "enable_country_flag": true,
+        "enable_country": false,
+        "enable_country_name": false,
+        "enable_country_flag": false,
         "enable_language": false
       }
     }
